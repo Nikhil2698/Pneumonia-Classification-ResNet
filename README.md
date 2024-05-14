@@ -14,6 +14,6 @@ Members of the Project
 
 
 ![Data Mining Pipeline](DM_Pipeline.png)
-Data Mining Pipeline of the Project 
+        Data Mining Pipeline of the Project 
 
 
