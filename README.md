@@ -12,8 +12,8 @@ Members of the Project
 4. Shreyas Srinivasan
 5. Pavan Ratnakar Shetty
 
-
+## Data Mining Pipeline of the Project
 ![Data Mining Pipeline](DM_Pipeline.png)
-        Data Mining Pipeline of the Project 
+         
 
 
