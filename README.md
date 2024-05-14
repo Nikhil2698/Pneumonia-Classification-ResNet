@@ -2,7 +2,7 @@
 
 This project was part of the course CSE 572: Data Mining under Prof. Yanjie Fu and focussed on classification of Chest X-Ray images as Pneumonic and Non-Pneumonic
 
-Dataset link: https://drive.google.com/drive/folders/1GQQ3wTcyFxmvUxeHfY0xq_yFL_pB7Saf?usp=sharing
+Dataset link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 Members of the Project
 
