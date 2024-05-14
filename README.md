@@ -13,3 +13,6 @@ Members of the Project
 5. Pavan Ratnakar Shetty
 
 
+![Data Mining Pipeline](DM_Pipeline.png)
+
+
